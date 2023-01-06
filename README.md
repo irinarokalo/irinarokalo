@@ -21,11 +21,11 @@
 
 ### Testing Artefacts
 
-- [Checklists]
-- [Test-Suites and Test-Cases]
-- [Bug-Reports]
-- [SQL Queries]
-- [Postman Collections]
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
 
 Languages:
 
