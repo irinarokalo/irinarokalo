@@ -27,6 +27,9 @@
 - [SQL Queries]()
 - [Postman Collections]()
 
-Languages:
+### Languages
+
+- English B1 (Intermediate)
+- Russian (Native)
 
 Contact me
