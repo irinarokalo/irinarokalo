@@ -19,7 +19,13 @@
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=youtrack&logoColor=8cc4d7)
 
-Testing documentation
+### Testing Artefacts
+
+- [Checklists]
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [SQL Queries]
+- [Postman Collections]
 
 Languages:
 
