@@ -32,4 +32,7 @@
 - English B1 (Intermediate)
 - Russian (Native)
 
-Contact me
+### Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/irina_rokalo)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
+
