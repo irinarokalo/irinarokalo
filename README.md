@@ -2,6 +2,9 @@
 
 ## I'm a beginner QA Engineer and ready to start working.
 
+## My CV
+[Link to my CV]()
+
 Languages and Tools
 
 Testing documentation
