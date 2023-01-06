@@ -5,8 +5,10 @@
 ## My CV
 [Link to my CV]()
 
-Languages and Tools
+Technologies and Tools
 
 Testing documentation
 
-Follow me
+Languages:
+
+Contact me
