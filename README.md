@@ -1,4 +1,4 @@
-![Header](https://github.com/irinarokalo/irinarokalo/blob/main/assets/header3.png)
+![Header](https://github.com/irinarokalo/irinarokalo/blob/main/assets/a%20new%20header%20for%20git.png)
 
 ## I'm a beginner QA Engineer and ready to start working.
 
