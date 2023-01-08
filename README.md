@@ -22,7 +22,7 @@
 ### Testing Artefacts
 
 - [Checklists](https://github.com/irinarokalo/Checklists/blob/main/README.md)
-- [Test-Suites and Test-Cases]()
+- [Test-Suites and Test-Cases](https://github.com/irinarokalo/Test-Cases.git)
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
