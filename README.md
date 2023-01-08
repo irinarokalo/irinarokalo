@@ -21,7 +21,7 @@
 
 ### Testing Artefacts
 
-- [Checklists]()
+- [Checklists](https://github.com/irinarokalo/Checklists/blob/main/README.md)
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
