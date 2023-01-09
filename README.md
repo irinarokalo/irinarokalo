@@ -25,7 +25,7 @@
 - [Test-Suites and Test-Cases](https://github.com/irinarokalo/Test-Cases.git)
 - [Bug-Reports]()
 - [SQL Queries](https://github.com/irinarokalo/SQL-Queries.git)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/irinarokalo/Postman-Collections.git)
 
 ### Languages
 
