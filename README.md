@@ -23,7 +23,7 @@
 
 - [Checklists](https://github.com/irinarokalo/Checklists/blob/main/README.md)
 - [Test-Suites and Test-Cases](https://github.com/irinarokalo/Test-Cases.git)
-- [Bug-Reports]()
+- [Bug-Reports](https://github.com/irinarokalo/Bug-Reports.git)
 - [SQL Queries](https://github.com/irinarokalo/SQL-Queries.git)
 - [Postman Collections](https://github.com/irinarokalo/Postman-Collections.git)
 
