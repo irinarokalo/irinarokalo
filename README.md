@@ -24,7 +24,7 @@
 - [Checklists](https://github.com/irinarokalo/Checklists/blob/main/README.md)
 - [Test-Suites and Test-Cases](https://github.com/irinarokalo/Test-Cases.git)
 - [Bug-Reports]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/irinarokalo/SQL-Queries.git)
 - [Postman Collections]()
 
 ### Languages
