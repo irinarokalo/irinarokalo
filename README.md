@@ -3,7 +3,7 @@
 ## I'm a QA Engineer and ready to start working.
 
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://drive.google.com/file/d/1vlgPA4wbfNAHzg5-otC5wW0M-hA5xGU7/view?usp=sharing)
 
 ### Technologies and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
