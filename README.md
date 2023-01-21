@@ -34,7 +34,7 @@
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/irina_rokalo)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/irina-rokalo/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irinarokalo&show_icons=true&theme=radical)
 
